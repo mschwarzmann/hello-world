@@ -1,2 +1,2 @@
 # hello-world
-Hellol World Tutorial
+So long, suckers!
